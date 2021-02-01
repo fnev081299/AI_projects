@@ -1,0 +1,10 @@
+Action space: 4
+Reward apple: 1.0
+Reward death: -1.0
+Reward life: 0.0
+Learning rate: 0.01
+Discount factor: 0.95
+Starting epsilon: 1
+Epsilon decrease rate: 0.99
+Batch size: 1000
+Saving model as model.h5

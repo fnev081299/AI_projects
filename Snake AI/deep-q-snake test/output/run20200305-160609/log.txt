@@ -1,0 +1,4 @@
+Action space: 4
+Reward apple: 1.0
+Reward death: -1.0
+Reward life: 0.0
